@@ -4,6 +4,10 @@
 
 This project demonstrates a sophisticated multi-agent system designed to provide comprehensive financial advisory services, leveraging the strengths of both LlamaIndex and AutoGen. The system integrates multiple intelligent agents, each specializing in a specific aspect of financial analysis and decision-making, to deliver personalized, data-driven advice.
 
+
+![Untitled diagram-2024-06-30-134611](https://github.com/dhrumilvthakkar/FinAdvisor-AutoGen/assets/171171250/885f7679-d4fc-42cc-8d91-81bca6fde4b7)
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
