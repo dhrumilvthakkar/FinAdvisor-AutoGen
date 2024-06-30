@@ -1,0 +1,25 @@
+# Core Libraries
+llama-index~=0.8.17      # For LlamaIndex functionalities
+openai~=0.27.8          # For OpenAI language models
+pandas~=2.0.3           # For data manipulation and analysis
+numpy~=1.25.2           # For numerical operations
+
+# Microsoft AutoGen
+autogen~=0.1.17.post1    # For multi-agent conversation framework
+
+# Sentiment Analysis (Azure)
+azure-ai-textanalytics~=5.3.1
+
+# Machine Learning (MLflow - optional)
+mlflow~=2.8.0         # For experiment tracking (if needed)
+scikit-learn~=1.3.2   # For machine learning models (if needed)
+
+# Portfolio Optimization
+cvxpy~=1.3.2
+scipy~=1.11.3
+
+# Financial Data
+yfinance~=0.2.32
+
+# User Interface (Gradio)
+gradio~=3.39.0
